@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I am Kuldeep Mourya 👋
 
-<!--
-**iamkdblue/iamkdblue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Fitphilia Solutions Private Limited
+- 🌱 I’m currently Kotlin
+- 👯 I’m looking to collaborate on Stackoverflow
+- 🤔 I’m looking for help with AnimeBlast
+- 💬 Ask me about Anything
+- 📫 How to reach me: Iamkdblue@gmail.com
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: Always Smiling
 
-Here are some ideas to get you started:
+<a href="https://stackoverflow.com/users/6925888/iamkdblue"><img src="https://stackoverflow.com/users/flair/6925888.png" width="208" height="58" alt="profile for iamkdblue at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for iamkdblue at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
