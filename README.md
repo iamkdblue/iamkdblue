@@ -1,8 +1,8 @@
 ### Hi, I am Kuldeep Mourya 👋
 
 - 🔭 I’m currently working on Fitphilia Solutions Private Limited
-- 🌱 I’m currently Kotlin
-- 👯 I’m looking to collaborate on Stackoverflow
+- 🌱 I’m currently with Kotlin
+- 👯 I’m on Stackoverflow
 - 🤔 I’m looking for help with AnimeBlast
 - 💬 Ask me about Anything
 - 📫 How to reach me: Iamkdblue@gmail.com
