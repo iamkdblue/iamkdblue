@@ -1,10 +1,10 @@
 ### Hi, I am Kuldeep Mourya 👋 
 ### Lets Friend If you are reading this 😇
 
-- 🔭 I’m currently working on Fitphilia Solutions Private Limited
+- 🔭 I’m currently working for Fitphilia Solutions Private Limited
 - 🌱 I’m currently with Kotlin
 - 👯 I’m on Stackoverflow
-- 🤔 I’m looking for help with AnimeBlast
+- 🤔 I’m looking for help in Android Test Driven Development(TDD)
 - 💬 Ask me about Anything
 - 📫 How to reach me: Iamkdblue@gmail.com
 - 😄 Pronouns: i am kdblue
