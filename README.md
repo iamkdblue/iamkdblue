@@ -1,8 +1,7 @@
 ### Hi, I am Kuldeep Mourya 👋 
 ### Lets Friend If you are reading this 😇
 
-- 🔭 I’m currently working for Fitphilia Solutions Private Limited
-- 🌱 I’m currently with Kotlin
+- 🌱 I’m currently with Kotlin(Android + Backend)
 - 👯 I’m on Stackoverflow
 - 🤔 I’m looking for help in Android Test Driven Development(TDD)
 - 💬 Ask me about Anything
