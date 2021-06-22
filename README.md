@@ -5,8 +5,8 @@
 - 👯 I’m on Stackoverflow
 - 🤔 I’m looking for help in Android Test Driven Development(TDD)
 - 💬 Ask me about Anything
-- 📫 How to reach me: Iamkdblue@gmail.com
-- 😄 Pronouns: i am kdblue
 
-<a href="https://stackoverflow.com/users/6925888/iamkdblue"><img src="https://stackoverflow.com/users/flair/6925888.png" width="208" height="58" alt="profile for iamkdblue at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for iamkdblue at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+
+
 
